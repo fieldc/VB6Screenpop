@@ -1,0 +1,10 @@
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\bin\Debug\Test - VB.Net.exe
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\bin\Debug\Test - VB.Net.pdb
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\bin\Debug\Test - VB.Net.xml
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\VBComTestConsole.Resources.resources
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\Test - VB.Net.exe
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\Test - VB.Net.xml
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\Test - VB.NET\obj\x86\Debug\Test - VB.Net.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\SSF Integrator\obj\x86\Debug\SSFIntegration.exe
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\SSF Integrator\obj\x86\Debug\SSFIntegration.pdb
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\SSF Integrator\bin\x86\Debug\SSFIntegration.exe
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\SSF Integrator\bin\x86\Debug\SSFIntegration.pdb
+C:\Documents and Settings\t22cf3p\My Documents\Visual Studio 2010\Projects\SSF Integration\SSF Integrator\obj\x86\Debug\ResolveAssemblyReference.cache
